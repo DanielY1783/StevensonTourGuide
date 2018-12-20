@@ -1,4 +1,4 @@
-## Forked for personal version of collaborative CS5278 final project
+## Forked from https://github.com/AkanEyoh/StevensonTourGuide for personal version of collaborative CS5278 final project
 
 [![Build Status](https://travis-ci.org/AkanEyoh/StevensonTourGuide.svg?branch=master)](https://travis-ci.org/AkanEyoh/StevensonTourGuide)
 
