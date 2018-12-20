@@ -1,3 +1,5 @@
+## Forked for personal version of collaborative CS5278 final project
+
 [![Build Status](https://travis-ci.org/AkanEyoh/StevensonTourGuide.svg?branch=master)](https://travis-ci.org/AkanEyoh/StevensonTourGuide)
 
 # Stevenson Tour Guide -- CSx278 Final Project
